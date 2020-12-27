@@ -4,3 +4,5 @@
 2. 从苹果开源库中下载 `sudoers`默认内容。[下载](https://opensource.apple.com/source/sudo/sudo-86/files/sudoers) 
 3. 将内容写入`/etc/sudoers`
 4. `/etc/sudoers`文件右键 -> `简介` -> 修改`everyone`权限为只读
+## 参考：
+- [Blank Sudoers File](https://apple.stackexchange.com/questions/391069/blank-sudoers-file)
